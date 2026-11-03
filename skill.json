@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-cardiac-autonomic-valsalva-ratio-skill",
+  "version": "1.0.0",
+  "description": "Calculates Valsalva Ratio (longest RR in Phase IV / shortest RR in Phase II) and evaluates cardiovagal and adrenergic baroreflex integrity using Ewing diagnostic criteria.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "cardiology",
+    "autonomic",
+    "valsalva-ratio",
+    "baroreflex",
+    "cardiovagal",
+    "ewing-battery",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
